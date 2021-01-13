@@ -1,5 +1,5 @@
 function msg(){  
-    alert("Hello Javatpoint");  
+    alert("Helloo Javatpoint");  
 }  
 
 let b = (hello) => { console.log("hello world");}
