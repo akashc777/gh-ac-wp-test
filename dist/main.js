@@ -10,6 +10,6 @@
 /*!****************!*\
   !*** ./src.js ***!
   \****************/
-eval("function msg(){  \n    alert(\"Helloo Javatpoint\");  \n}  \n\nlet b = (hello) => { console.log(\"hello world\");}\n\n\n\n//# sourceURL=webpack://gh-ac-test/./src.js?");
+eval("function msg(){  \n    alert(\"Hello Javatpoint\");  \n}  \n\nlet b = (hello) => { console.log(\"hello world\");}\n\n\n\n//# sourceURL=webpack://gh-ac-test/./src.js?");
 /******/ })()
 ;
