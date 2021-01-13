@@ -26,9 +26,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
-    - run: |
-          git config --global user.name 'akashc777'
-          git config --global user.email 'akash@users.noreply.github.com'
     - run: npm run build --if-present
     - run: |
           git add dist/*
